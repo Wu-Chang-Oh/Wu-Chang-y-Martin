@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Piramide de Conocimiento</h1>
+      
+    </header>
+
+    <nav>
+        <a href="index.html">Regresar</a>
+        <a href="hardware.html">Hardware</a>
+        <a href="redes.html">Redes</a>
+    </nav>
+<nav>
+        <a href="datos.html">Datos</a>
+        
+        <a href="systemab.html">Systema Binario</a>
+    <a href="analogico.html">Analogico vs Digital</a>
+    </nav>
+
+    <div class="section" id="sociedad-digital">
+      <h2>Piramide DIKW </h2>
+        <p>La Pirámide DIKW (Data, Information, Knowledge, Wisdom) ilustra cómo los datos crudos se transforman en sabiduría a través de un proceso de refinamiento. Los datos son hechos sin contexto, que al ser organizados y contextualizados se convierten en información. Esta información se analiza y combina con la experiencia para formar conocimiento, que permite tomar decisiones y resolver problemas. Finalmente, la sabiduría es el uso prudente del conocimiento para tomar decisiones efectivas y éticas. En resumen, la pirámide muestra cómo el valor y la aplicabilidad de los datos aumentan a medida que se transforman en información, conocimiento y sabiduría.
+</p>
+    </div>
+<div>
+     
+        <img src="piramide.jpg" alt=Foto de datos" class="fpiramide">
+    </div>
+  
+ 
+
+    <footer>
+        <p>Correo de contacto: <strong>Wu: 2012007606@ceroble.edu.gt</strong> y <strong>Martin: 2011007471@ceroble.edu.gt</strong></p>
+    </footer>
+
+</body>
+</html>
