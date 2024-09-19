@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Redes</h1>
+        
+    </header>
+
+    <nav>
+        <a href="index.html">Regresar</a>
+        <a href="sociedad.html">Sociedad Digital</a>
+        <a href="redes.html">Redes</a>
+    </nav>
+<nav>
+       
+        <a href="internet.html">Internet</a>
+        <a href="uso.html">Uso del Internet</a>
+
+    </nav>
+
+    <div class="section" id="hardware">
+        <h2>Redes</h2>
+        <p>Las redes de Internet son una vasta infraestructura global que conecta computadoras y otros dispositivos para permitir el intercambio de información en tiempo real. A nivel básico, el Internet funciona como una red de redes interconectadas que utilizan una variedad de tecnologías y protocolos para transmitir datos. La información se envía en paquetes, que viajan a través de múltiples rutas y se ensamblan en su destino final. Las redes de Internet están formadas por servidores, routers, switches y cables que facilitan la comunicación entre usuarios en todo el mundo. Estas redes pueden ser privadas, como las de las empresas, o públicas, como las que usamos en casa, y se basan en protocolos estandarizados, como el TCP/IP, para garantizar que los datos lleguen de manera eficiente y segura. En conjunto, estas redes permiten el acceso a una amplia gama de servicios y recursos, desde sitios web y aplicaciones hasta correos electrónicos y redes sociales, configurando la base de la comunicación y la información en la era digital.</p>
+    </div>
+<div>
+<img src="redes.jpg" alt=Foto muchas redes" class="fredes">
+</div>
+
+    <footer>
+        <p>Correo de contacto: <strong>Wu: 2012007606@ceroble.edu.gt</strong> y <strong>Martin: 2011007471@ceroble.edu.gt</strong></p>
+    </footer>
+
+</body>
+</html>
