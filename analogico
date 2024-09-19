@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Anologico vs Digital</h1>
+      
+    </header>
+
+    <nav>
+        <a href="index.html">Regresar</a>
+        <a href="hardware.html">Hardware</a>
+        <a href="redes.html">Redes</a>
+    </nav>
+<nav>
+        <a href="datos.html">Datos</a>
+        <a href="systemab.html">Systema Binario</a>
+        <a href="piramide.html">Piramide de Conocimiento</a>
+     
+    </nav>
+
+    <div class="section" id="sociedad-digital">
+      <h2>Anologico vs Digital </h2>
+        <p>La principal diferencia entre los sistemas analógico y digital radica en cómo representan y procesan la información. Los sistemas <strong>analógicos</strong> capturan y almacenan datos en forma continua, lo que significa que pueden variar suavemente a lo largo de un rango infinito de valores, como la variación continua en la señal de una radio o la intensidad de una luz. Por otro lado, los sistemas <strong>digitales</strong> convierten la información en valores discretos, usando números finitos para representar datos, como en los bits de un archivo digital. Mientras que los sistemas analógicos ofrecen una representación más fluida y directa de los datos, los digitales ofrecen mayor precisión, facilidad de procesamiento y resistencia al ruido, ya que la información es menos susceptible a distorsiones. Por estas razones, los sistemas digitales predominan en la mayoría de las tecnologías modernas, como computadoras y dispositivos electrónicos.
+</p>
+    </div>
+<div>
+     
+        <img src="analogico.jpg" alt=Foto de datos" class="fanalogico">
+    </div>
+  
+ 
+
+    <footer>
+        <p>Correo de contacto: <strong>Wu: 2012007606@ceroble.edu.gt</strong> y <strong>Martin: 2011007471@ceroble.edu.gt</strong></p>
+    </footer>
+
+</body>
+</html>
