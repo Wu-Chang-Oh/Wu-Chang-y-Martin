@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Internet</h1>
+      
+    </header>
+
+    <nav>
+        <a href="index.html">Regresar</a>
+        <a href="hardware.html">Hardware</a>
+        <a href="redes.html">Redes</a>
+    </nav>
+<nav>
+       
+<a href="uso.html">Uso del Internet</a>
+
+    </nav>
+     
+
+    <div class="section" id="sociedad-digital">
+        <h1>¿Qué es el Internet?</h1>
+    <p>
+        El Internet es una red global de redes que conecta computadoras y otros dispositivos a través de tecnologías de comunicación. En esencia, es una infraestructura que permite a los usuarios de todo el mundo intercambiar información, acceder a recursos digitales y comunicarse en tiempo real.
+    </p>
+    <p>
+        El funcionamiento del Internet se basa en una serie de protocolos estandarizados, el más fundamental de los cuales es el TCP/IP (Protocolo de Control de Transmisión/Protocolo de Internet). Estos protocolos dividen la información en paquetes que viajan a través de diversas rutas a través de redes interconectadas, y luego ensamblan estos paquetes en el destino final para recrear la información original.
+    </p>
+  </div>
+<div>
+    <p>
+        El Internet está compuesto por diversos elementos, incluidos:
+        <ul>
+            <li><strong>Servidores:</strong> Computadoras que almacenan y sirven datos, como sitios web y correos electrónicos.</li>
+            <li><strong>Clientes:</strong> Dispositivos como computadoras, smartphones y tablets que solicitan y reciben datos de los servidores.</li>
+            <li><strong>Ruteadores y conmutadores:</strong> Dispositivos que dirigen el tráfico de datos entre servidores y clientes, asegurando que los paquetes de información lleguen a su destino.</li>
+            <li><strong>Infraestructura de red:</strong> Incluye cables, fibra óptica y conexiones inalámbricas que permiten la transmisión de datos a través de grandes distancias.</li>
+        </ul>
+    </p>
+    <p>
+        El Internet no solo permite la navegación web y el correo electrónico, sino que también soporta aplicaciones más avanzadas como redes sociales, servicios de transmisión de video, juegos en línea y mucho más. Su impacto en la vida diaria es profundo, facilitando la comunicación instantánea, el acceso a información y la realización de transacciones en un entorno globalizado.
+    </p>
+    </div>
+<div>
+     
+        <img src="internet.jpg" alt=Foto del Internet" class="finternet">
+    </div>
+  
+ 
+
+    <footer>
+        <p>Correo de contacto: <strong>Wu: 2012007606@ceroble.edu.gt</strong> y <strong>Martin: 2011007471@ceroble.edu.gt</strong></p>
+    </footer>
+
+</body>
+</html>
