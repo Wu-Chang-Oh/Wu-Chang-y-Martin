@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Systema Binario</h1>
+      
+    </header>
+
+    <nav>
+        <a href="index.html">Regresar</a>
+        <a href="hardware.html">Hardware</a>
+        <a href="redes.html">Redes</a>
+    </nav>
+<nav>
+        <a href="datos.html">Datos</a>
+        
+        <a href="piramide.html">Piramide de Conocimiento</a>
+    <a href="analogico.html">Analogico vs Digital</a>
+    </nav>
+
+    <div class="section" id="sociedad-digital">
+      <h2>Systema Binario </h2>
+        <p>El sistema binario es un sistema numérico en el que los números se representan utilizando solo dos dígitos: 0 y 1. Es fundamental en la computación y la electrónica porque las máquinas y los sistemas digitales operan internamente con señales eléctricas que pueden estar encendidas (1) o apagadas (0). En el sistema binario, cada dígito o "bit" representa una potencia de 2, comenzando con 
+2
+0
+2 
+0
+  para el bit menos significativo. Los números binarios se pueden convertir a números decimales y viceversa mediante la suma de potencias de 2. 
+</p>
+    </div>
+<div>
+     
+        <img src="systemab.jpg" alt=Foto de datos" class="fsystemab">
+    </div>
+  
+ 
+
+    <footer>
+        <p>Correo de contacto: <strong>Wu: 2012007606@ceroble.edu.gt</strong> y <strong>Martin: 2011007471@ceroble.edu.gt</strong></p>
+    </footer>
+
+</body>
+</html>
