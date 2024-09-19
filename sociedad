@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Sociedad Digital</h1>
+      
+    </header>
+
+    <nav>
+      <a href="index.html">Regresar</a>
+        <a href="hardware.html">Hardware</a>
+        <a href="redes.html">Redes</a>
+    </nav>
+<nav>
+        <a href="datos.html">Datos</a>
+        <a href="piramide.html">Piramide de Conocimiento</a>
+        <a href="systemab.html">Systema Binario</a>
+       <a href="analogico.html">Analogico vs Digital</a>
+    </nav>
+
+    <div class="section" id="sociedad-digital">
+        <h2>Sociedad Digital</h2>
+        <p>Grupo de personas que se juntan para usar el internet y las redes sociales. Algunos ejemplos:
+          
+          Instagram, Discord, Facebook, Twitter (X), Reddit, etc..
+</p>
+    </div>
+<div>
+     
+        <p> En esta sociedad, las interacciones, la comunicación, la economía, y muchas otras facetas de la vida cotidiana están profundamente influenciadas por internet y las tecnologías digitales. Esto incluye el uso de redes sociales, la digitalización de servicios, el comercio electrónico, y la dependencia de dispositivos electrónicos para la comunicación y el acceso a la información.
+</p>
+    </div>
+  
+ 
+
+    <footer>
+        <p>Correo de contacto: <strong>Wu: 2012007606@ceroble.edu.gt</strong> y <strong>Martin: 2011007471@ceroble.edu.gt</strong></p>
+    </footer>
+
+</body>
+</html>
