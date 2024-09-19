@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Software</h1>
+      
+    </header>
+
+    <nav>
+        <a href="index.html">Regresar</a>
+        <a href="hardware.html">Hardware</a>
+        <a href="redes.html">Redes</a>
+    </nav>
+<nav>
+       
+        <a href="componentes.html">Componentes</a>
+
+    </nav>
+     
+
+    <div class="section" id="sociedad-digital">
+       <h2>Sistemas Operativos</h2>
+            <p>Un sistema operativo (SO) es el software que gestiona el hardware del ordenador y proporciona servicios para los programas de aplicación. Ejemplos incluyen Windows, macOS, y Linux. El sistema operativo controla los recursos del hardware, permite la interacción del usuario con la computadora y gestiona la ejecución de aplicaciones.</p>
+        </div>
+
+        <div class="software">
+            <h2>Software de Aplicación</h2>
+            <p>El software de aplicación se refiere a los programas diseñados para realizar tareas específicas para el usuario. Ejemplos incluyen Microsoft Office, navegadores web como Chrome y Firefox, y programas de edición de fotos como Adobe Photoshop. Este tipo de software ayuda a los usuarios a realizar tareas productivas, creativas o de comunicación.</p>
+        </div>
+
+        <div class="software">
+            <h2>Software de Desarrollo</h2>
+            <p>El software de desarrollo incluye herramientas y entornos que los desarrolladores utilizan para crear, probar y mantener aplicaciones. Ejemplos incluyen lenguajes de programación como Python o Java, y entornos de desarrollo integrados (IDE) como Visual Studio Code o Eclipse. Este software facilita la creación de nuevos programas y aplicaciones.</p>
+        </div>
+
+        <div class="software">
+            <h2>Software de Seguridad</h2>
+            <p>El software de seguridad está diseñado para proteger el ordenador y la información del usuario contra amenazas como virus, malware y ataques cibernéticos. Ejemplos incluyen antivirus como Norton o McAfee y herramientas de firewall. Este software ayuda a mantener la integridad, confidencialidad y disponibilidad de los datos del usuario.</p>
+        </div>
+    
+<div>
+     
+        <img src="software.jpg" alt=Foto de software" class="fsoftware">
+    </div>
+  
+ 
+
+    <footer>
+        <p>Correo de contacto: <strong>Wu: 2012007606@ceroble.edu.gt</strong> y <strong>Martin: 2011007471@ceroble.edu.gt</strong></p>
+    </footer>
+
+</body>
+</html>
