@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Estudio de la Sociedad Digital 2024</h1>
+       
+    </header>
+
+    <nav>
+        <a href="sociedad.html">Sociedad Digital</a>
+        <a href="hardware.html">Hardware</a>
+        <a href="redes.html">Redes</a>
+    </nav>
+
+    <div class="section" id="sociedad-digital">
+        <h2>Sociedad Digital</h2>
+        <p>La sociedad digital se refiere al entorno social y cultural que ha surgido como resultado del uso generalizado de tecnologías digitales y de la información. Algunos ejemplos:
+          
+          Instagram, Discord, Facebook, Twitter (X), Reddit, etc..</p>
+    </div>
+
+    <div class="section" id="hardware">
+        <h2>Hardware</h2>
+        <p>El hardware se refiere a los componentes físicos de un sistema informático. Es todo el equipo tangible y material que se utiliza para procesar, almacenar y transmitir información.</p>
+    </div>
+
+    <div class="section" id="redes">
+        <h2>Redes</h2>
+        <p>Una red se refiere a un sistema de la conexión entre múltiples dispositivos para permitir la comunicación y el intercambio de datos.</p>
+    </div>
+
+    <footer>
+        <p>Correo de contacto: <strong>Wu: 2012007606@ceroble.edu.gt</strong> <a href="5n.html" class="secreto">y</a> <strong>Martin: 2011007471@ceroble.edu.gt</strong></p>
+    </footer>
+
+</body>
+</html>
