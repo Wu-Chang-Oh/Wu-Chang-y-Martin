@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Componentes</h1>
+      
+    </header>
+
+    <nav>
+        <a href="index.html">Regresar</a>
+        <a href="hardware.html">Hardware</a>
+        <a href="redes.html">Redes</a>
+    </nav>
+<nav>
+       
+        <a href="software.html">Software</a>
+
+    </nav>
+     
+
+    <div class="section" id="sociedad-digital">
+      <h2>Componentes del Hardware </h2>
+        <div class="container">
+        <div class="component">
+            <h2>CPU (Unidad Central de Procesamiento)</h2>
+            
+            <p>La CPU es el cerebro del ordenador, donde se ejecutan las instrucciones de los programas. Está encargada de realizar cálculos y procesar datos.</p>
+        </div>
+
+        <div class="component">
+            <h2>RAM (Memoria de Acceso Aleatorio)</h2>
+            
+            <p>La RAM es la memoria temporal del ordenador. Almacena datos e instrucciones que la CPU necesita mientras realiza sus tareas.</p>
+        </div>
+
+        <div class="component">
+            <h2>Placa Base</h2>
+            
+            <p>La placa base es el componente principal que conecta todos los demás componentes del ordenador. Permite la comunicación entre la CPU, la RAM, y otros periféricos.</p>
+        </div>
+
+        <div class="component">
+            <h2>Almacenamiento (HDD/SSD)</h2>
+            
+            <p>El almacenamiento es donde se guardan todos los datos y programas del ordenador. Puede ser un disco duro (HDD) o una unidad de estado sólido (SSD).</p>
+        </div>
+
+        <div class="component">
+            <h2>Tarjeta Gráfica</h2>
+            
+            <p>La tarjeta gráfica se encarga de renderizar imágenes y videos. Es esencial para tareas gráficas intensivas como los videojuegos y el diseño gráfico.</p>
+        </div>
+    
+    </div>
+<div>
+     
+        <img src="componentes.jpg" alt=Foto de componentes" class="fcomponentes">
+    </div>
+  
+ 
+
+    <footer>
+        <p>Correo de contacto: <strong>Wu: 2012007606@ceroble.edu.gt</strong> y <strong>Martin: 2011007471@ceroble.edu.gt</strong></p>
+    </footer>
+
+</body>
+</html>
