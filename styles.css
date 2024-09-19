@@ -1,0 +1,91 @@
+        body {
+            background-color: rgb(169, 190, 194);
+            color: black;
+            font-family: sans-serif;
+        }
+
+        header {
+            background-color: rgb(37, 90, 158);
+            color: black;
+            padding: 20px;
+           opacity: 0.9;
+        }
+
+        nav {
+            background-color:  rgb(20, 70, 158);
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+
+        nav a {
+            color: gray;
+            margin-right: 15px;
+            font-size: 18px;
+        }
+
+        .section {
+            background-color: rgb(4, 146, 194);
+            margin: 10px;
+            padding: 10px;
+            border: 3px solid rgb(1, 101 ,150);
+          opacity: 0.86;
+        }
+
+        footer {
+            background-color: rgb(37, 90, 110);
+            color: white;
+            text-align: center;
+            padding: 20px;
+            border-top: 2px solid rgb(1, 101 ,150);
+        }
+
+    div {
+            background-color: rgb(4, 146, 194);
+            margin: 10px;
+            padding: 10px;
+            border: 3px solid rgb(1, 101 ,150);
+          opacity: 0.86;
+        }
+
+.fdatos {
+  width: 500px;   
+ height: auto; 
+}
+
+.fpiramide {
+  width: 500px;   
+ height: auto; 
+}
+
+
+.fsystemab{
+  width: 500px;   
+ height: auto; 
+}
+
+.fanalogico{
+  width: 700px;   
+ height: 300px; 
+}
+
+.fhardware{
+  width: 600px;   
+ height: 400px; 
+}
+
+.fcomponentes{
+  width: 600px;   
+ height: 500px; 
+}
+
+.fsecret{
+  width: 1600px;   
+ height: 900px; 
+}
+.secreto {
+color: white;}
+
+.fredes{
+  width: 400px;   
+ height: auto; 
+}
